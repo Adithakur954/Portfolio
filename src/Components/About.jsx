@@ -14,10 +14,25 @@ const description =
 const skillsList = [
   "HTML",
   "CSS",
+  "Tailwind CSS",
+  "BootStrap",
+  "Material-UI",
   "JavaScript",
-  "React",
+  "Reactjs",
   "Mongo DB",
+  "MySQL",
+  "PostgreSQL",
+  "REST API",
+  "Context APIs",
+  "Postman",
+  "Nodejs",
+  "Expressjs",
   "Graphic design",
+  "Git",
+  "Github",
+  "Netlify",
+  "vercel",
+  "Open Ai(Basic)"
 ];
 
 
