@@ -10,7 +10,7 @@ import "./index.css";
 
 const siteProps = {
   name: "Aditya Singh",
-  title: "Web Designer & Content Creator",
+  title: "Web Developer",
   email: "aditya2210005@akgec.ac.in",
   gitHub: "adithakur954",
   instagram: "btwitsadithakur",
