@@ -11,7 +11,7 @@ const projectList = [
     title: "Use of redux routes",
     description:
       "This begining javaScript project to guess the number between 1 to 10.",
-    url: "https://guessthenumberbyadi.netlify.app/",
+    url: "https://react-routerpro.netlify.app/",
   },
   {
     title: "Currency Converter",
