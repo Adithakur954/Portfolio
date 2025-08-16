@@ -7,6 +7,12 @@ const imageAltText = "desktop with books and laptop";
 
 
 const projectList = [
+   {
+    title: "Social Media  ",
+    description:
+      "This Backend project , Tech used are Node.Js and Mongo DB and many library also feautre of pipeline for better query",
+    url: "https://github.com/Adithakur954/Backend-Combined",
+  },
   {
     title: "Use of redux routes",
     description:
@@ -20,17 +26,12 @@ const projectList = [
     url: "https://currencyconvertorbyadi.netlify.app/",
   },
   {
-    title: "to do list ",
-    description:
-      "This is basic javascript project for  to-do-list. this project is to create a note for notice daily routine",
-    url: "https://todolistbyadi.netlify.app/",
-  },
-  {
     title: "Suduko",
     description:
       "This is world famous  game of suduko. Made using javaScript.",
     url: "https://sudukobyadi.netlify.app/",
-  },
+  }
+  
 ];
 
 const Portfolio = () => {
