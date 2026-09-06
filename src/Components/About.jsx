@@ -1,8 +1,4 @@
 
-
-import React from "react";
-
-
 import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";

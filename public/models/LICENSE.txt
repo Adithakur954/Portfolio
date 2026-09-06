@@ -1,0 +1,7 @@
+Fir Tree FBX and GLB 3D Model
+Creator: Venturon
+Source: https://venturon.itch.io/firtree
+License: CC0 1.0 Universal (public domain)
+
+The GLB is used as the tree base and rendered with custom materials, climbing
+vines, lighting, scroll rotation, and particle effects in this portfolio.
